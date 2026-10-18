@@ -19,5 +19,26 @@
         "iconUrl": "https://ssrmovies.surf/favicon.ico",
         "apiVersion": 1,
         "fileHash": "sha256-b18d97d22604e9bb8ce819b8ba957b46a27741e4c1b41bc2329bdf1fceed626b"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/PirateZoro9/asura-cloudstream-plugins/builds/VegaMovies.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "VegaMovies",
+        "internalName": "VegaMovies",
+        "authors": [
+            "Asura"
+        ],
+        "description": "VegaMovies Provider (Bollywood, Hollywood & Series)",
+        "fileSize": 9557,
+        "repositoryUrl": "https://github.com/PirateZoro9/asura-cloudstream-plugins",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://new1.vegamovies.lease/favicon.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-6a30411ead58804b21497917bca16da055f1b14a8989e08d2ae743b666759535"
     }
 ]
