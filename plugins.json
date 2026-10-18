@@ -42,6 +42,30 @@
         "fileHash": "sha256-faca811954a45219c2c6350c2d04f0abc78ff8e763b51f912835ab39f4c74d76"
     },
     {
+        "url": "https://raw.githubusercontent.com/PirateZoro9/asura-cloudstream-plugins/builds/RareAnimes.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "RareAnimes",
+        "internalName": "RareAnimes",
+        "authors": [
+            "Asura"
+        ],
+        "description": "RareAnimes Provider (Anime & Cartoons in Hindi Dub/Sub)",
+        "fileSize": 28077,
+        "repositoryUrl": "https://github.com/PirateZoro9/asura-cloudstream-plugins",
+        "language": "hi",
+        "tvTypes": [
+            "Anime",
+            "Cartoon",
+            "AnimeMovie",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://www.rareanimes.mov/wp-content/uploads/2021/07/cropped-favicon-192x192.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-d608063e4b8531d9c37887621c5b2a3d7e92b7f69874c31aa159e12bc7bb7721"
+    },
+    {
         "url": "https://raw.githubusercontent.com/PirateZoro9/asura-cloudstream-plugins/builds/SsrMovies.cs3",
         "status": 1,
         "version": 4,
