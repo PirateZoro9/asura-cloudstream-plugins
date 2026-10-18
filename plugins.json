@@ -22,6 +22,27 @@
         "fileHash": "sha256-e94c3400270ad1c8c9fe276505b8b7dd09c941652abbb12120be8b6e67698564"
     },
     {
+        "url": "https://raw.githubusercontent.com/PirateZoro9/asura-cloudstream-plugins/builds/HDHub4u.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "HDHub4u",
+        "internalName": "HDHub4u",
+        "authors": [
+            "Asura"
+        ],
+        "description": "HDHub4u Provider (Bollywood, Hollywood & Web Series)",
+        "fileSize": 30058,
+        "repositoryUrl": "https://github.com/PirateZoro9/asura-cloudstream-plugins",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://new8.hdhub4u.cl/favicon.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-52e283d44569b5b3508d0eca03fce17d6d272ae48b57470a0f10ba03b1eef595"
+    },
+    {
         "url": "https://raw.githubusercontent.com/PirateZoro9/asura-cloudstream-plugins/builds/SsrMovies.cs3",
         "status": 1,
         "version": 4,
