@@ -30,7 +30,7 @@
             "Asura"
         ],
         "description": "MoviesDrive Provider (Movies & Web Series)",
-        "fileSize": 28471,
+        "fileSize": 30801,
         "repositoryUrl": "https://github.com/PirateZoro9/asura-cloudstream-plugins",
         "language": "hi",
         "tvTypes": [
@@ -39,7 +39,7 @@
         ],
         "iconUrl": "https://new3.moviesdrive.beer/wp-content/uploads/2026/01/cropped-Gemini_Generated_Image_qt93aqt93aqt93aq-1-192x192.png",
         "apiVersion": 1,
-        "fileHash": "sha256-f9f743c62301a589b33a7831006eaef0fa28620dd96ad329482a6e6735c3ff27"
+        "fileHash": "sha256-faca811954a45219c2c6350c2d04f0abc78ff8e763b51f912835ab39f4c74d76"
     },
     {
         "url": "https://raw.githubusercontent.com/PirateZoro9/asura-cloudstream-plugins/builds/SsrMovies.cs3",
