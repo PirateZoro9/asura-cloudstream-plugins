@@ -2,14 +2,14 @@
     {
         "url": "https://raw.githubusercontent.com/PirateZoro9/asura-cloudstream-plugins/builds/HDHub4u.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "HDHub4u",
         "internalName": "HDHub4u",
         "authors": [
             "Asura"
         ],
         "description": "HDHub4u Provider (Bollywood, Hollywood & Web Series)",
-        "fileSize": 30058,
+        "fileSize": 36893,
         "repositoryUrl": "https://github.com/PirateZoro9/asura-cloudstream-plugins",
         "language": "hi",
         "tvTypes": [
@@ -18,7 +18,7 @@
         ],
         "iconUrl": "https://new8.hdhub4u.cl/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-52e283d44569b5b3508d0eca03fce17d6d272ae48b57470a0f10ba03b1eef595"
+        "fileHash": "sha256-cc20de09bfbe67f8c333c2f3878a41dc4b8bf8e73c829695cfc043638a148284"
     },
     {
         "url": "https://raw.githubusercontent.com/PirateZoro9/asura-cloudstream-plugins/builds/HindMovie.cs3",
@@ -88,7 +88,7 @@
     {
         "url": "https://raw.githubusercontent.com/PirateZoro9/asura-cloudstream-plugins/builds/RareAnimes.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "RareAnimes",
         "internalName": "RareAnimes",
         "authors": [
@@ -105,9 +105,9 @@
             "TvSeries",
             "Movie"
         ],
-        "iconUrl": "https://www.rareanimes.mov/wp-content/uploads/2021/07/cropped-favicon-192x192.png",
+        "iconUrl": "https://www.rareanimes.mov/wp-content/uploads/2023/11/cropped-Rare-Animes-India-32x32.png",
         "apiVersion": 1,
-        "fileHash": "sha256-d608063e4b8531d9c37887621c5b2a3d7e92b7f69874c31aa159e12bc7bb7721"
+        "fileHash": "sha256-3c11921d49634a4d85b4822b2732f9b9fbcca2a942a8b5ead8a01991185fbe42"
     },
     {
         "url": "https://raw.githubusercontent.com/PirateZoro9/asura-cloudstream-plugins/builds/SsrMovies.cs3",
@@ -133,7 +133,7 @@
     {
         "url": "https://raw.githubusercontent.com/PirateZoro9/asura-cloudstream-plugins/builds/VegaMovies.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "VegaMovies",
         "internalName": "VegaMovies",
         "authors": [
@@ -147,8 +147,8 @@
             "Movie",
             "TvSeries"
         ],
-        "iconUrl": "https://new1.vegamovies.lease/favicon.ico",
+        "iconUrl": "https://new1.vegamovies.lease/images/favicon-32x32.png",
         "apiVersion": 1,
-        "fileHash": "sha256-534273907921b95335399ea45f140b32f4443d962585733d36d40761f5e77a07"
+        "fileHash": "sha256-2967a0fc1e97a727efba1ecd6886b3cbe37272fce957b776547edcb5c80be319"
     }
 ]
