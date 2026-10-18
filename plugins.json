@@ -2,14 +2,14 @@
     {
         "url": "https://raw.githubusercontent.com/PirateZoro9/asura-cloudstream-plugins/builds/HDHub4u.cs3",
         "status": 1,
-        "version": 2,
+        "version": 3,
         "name": "HDHub4u",
         "internalName": "HDHub4u",
         "authors": [
             "Asura"
         ],
         "description": "HDHub4u Provider (Bollywood, Hollywood & Web Series)",
-        "fileSize": 36893,
+        "fileSize": 42767,
         "repositoryUrl": "https://github.com/PirateZoro9/asura-cloudstream-plugins",
         "language": "hi",
         "tvTypes": [
@@ -18,7 +18,7 @@
         ],
         "iconUrl": "https://new8.hdhub4u.cl/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-cc20de09bfbe67f8c333c2f3878a41dc4b8bf8e73c829695cfc043638a148284"
+        "fileHash": "sha256-006788506d0584e87baffb57d622f3e0e228b8087bae98f48fcb02682f1c2129"
     },
     {
         "url": "https://raw.githubusercontent.com/PirateZoro9/asura-cloudstream-plugins/builds/HindMovie.cs3",
