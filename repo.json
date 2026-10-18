@@ -1,0 +1,8 @@
+{
+    "name": "Asura Plugins",
+    "description": "Asura CloudStream Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/PirateZoro9/asura-cloudstream-plugins/refs/heads/builds/plugins.json"
+    ]
+}
