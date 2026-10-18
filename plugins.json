@@ -42,6 +42,28 @@
         "fileHash": "sha256-faca811954a45219c2c6350c2d04f0abc78ff8e763b51f912835ab39f4c74d76"
     },
     {
+        "url": "https://raw.githubusercontent.com/PirateZoro9/asura-cloudstream-plugins/builds/MoviesHunt.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "MoviesHunt",
+        "internalName": "MoviesHunt",
+        "authors": [
+            "Asura"
+        ],
+        "description": "MoviesHunt Provider (Latest Movies, Series & Dual Audio)",
+        "fileSize": 29228,
+        "repositoryUrl": "https://github.com/PirateZoro9/asura-cloudstream-plugins",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "https://new1.movieshunt.website/wp-content/uploads/2024/02/movieshunt1.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-e2bbb7444c43eaa365daa41d206ea4b452fe8989c9d2e652f246c31ef990cdf8"
+    },
+    {
         "url": "https://raw.githubusercontent.com/PirateZoro9/asura-cloudstream-plugins/builds/RareAnimes.cs3",
         "status": 1,
         "version": 1,
