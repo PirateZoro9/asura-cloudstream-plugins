@@ -23,14 +23,14 @@
     {
         "url": "https://raw.githubusercontent.com/PirateZoro9/asura-cloudstream-plugins/builds/VegaMovies.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "VegaMovies",
         "internalName": "VegaMovies",
         "authors": [
             "Asura"
         ],
         "description": "VegaMovies Provider (Bollywood, Hollywood & Series)",
-        "fileSize": 9557,
+        "fileSize": 21934,
         "repositoryUrl": "https://github.com/PirateZoro9/asura-cloudstream-plugins",
         "language": "hi",
         "tvTypes": [
@@ -39,6 +39,6 @@
         ],
         "iconUrl": "https://new1.vegamovies.lease/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-6a30411ead58804b21497917bca16da055f1b14a8989e08d2ae743b666759535"
+        "fileHash": "sha256-bf3a9f1a1bfcc25e489c63ab4a990b0f6ea96cb46bada862e1fdc64e964a2f19"
     }
 ]
