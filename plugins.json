@@ -2,14 +2,14 @@
     {
         "url": "https://raw.githubusercontent.com/PirateZoro9/asura-cloudstream-plugins/builds/SsrMovies.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "SsrMovies",
         "internalName": "SsrMovies",
         "authors": [
             "Asura"
         ],
         "description": "SSRMovies Provider (Bollywood & Hindi Dubbed)",
-        "fileSize": 14463,
+        "fileSize": 18955,
         "repositoryUrl": "https://github.com/PirateZoro9/asura-cloudstream-plugins",
         "language": "hi",
         "tvTypes": [
@@ -18,6 +18,6 @@
         ],
         "iconUrl": "https://ssrmovies.surf/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-9e09d785ccab3e757ea130a383fd1fa403db3bd49f402a375fd34de137532196"
+        "fileHash": "sha256-b18d97d22604e9bb8ce819b8ba957b46a27741e4c1b41bc2329bdf1fceed626b"
     }
 ]
