@@ -21,6 +21,28 @@
         "fileHash": "sha256-52e283d44569b5b3508d0eca03fce17d6d272ae48b57470a0f10ba03b1eef595"
     },
     {
+        "url": "https://raw.githubusercontent.com/PirateZoro9/asura-cloudstream-plugins/builds/HindMovie.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "HindMovie",
+        "internalName": "HindMovie",
+        "authors": [
+            "Asura"
+        ],
+        "description": "HindMovie Provider (Bollywood, Hollywood, Web Series, K-Drama & Dual Audio)",
+        "fileSize": 28951,
+        "repositoryUrl": "https://github.com/PirateZoro9/asura-cloudstream-plugins",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "https://hindmovie.one/favicon.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-ce4a9bed86ad292c0bdb4ebd9bbea61d858eaec992b3e476f73cd74cee5892c7"
+    },
+    {
         "url": "https://raw.githubusercontent.com/PirateZoro9/asura-cloudstream-plugins/builds/MoviesDrive.cs3",
         "status": 1,
         "version": 1,
