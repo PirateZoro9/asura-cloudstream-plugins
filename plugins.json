@@ -1,27 +1,5 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/PirateZoro9/asura-cloudstream-plugins/builds/GokuHD.cs3",
-        "status": 1,
-        "version": 3,
-        "name": "GokuHD",
-        "internalName": "GokuHD",
-        "authors": [
-            "Asura"
-        ],
-        "description": "GokuHD Provider (Hindi Dubbed Anime, Movies & Series)",
-        "fileSize": 38933,
-        "repositoryUrl": "https://github.com/PirateZoro9/asura-cloudstream-plugins",
-        "language": "hi",
-        "tvTypes": [
-            "Anime",
-            "Movie",
-            "TvSeries"
-        ],
-        "iconUrl": "https://gokuhd.com/wp-content/uploads/2025/07/Goku-LOGO.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-99e04cf22b504852e1e0808ff992619cedf79d830d4332d5dece91b109067323"
-    },
-    {
         "url": "https://raw.githubusercontent.com/PirateZoro9/asura-cloudstream-plugins/builds/HDHub4u.cs3",
         "status": 1,
         "version": 1,
