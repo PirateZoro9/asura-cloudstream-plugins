@@ -110,27 +110,6 @@
         "fileHash": "sha256-3c11921d49634a4d85b4822b2732f9b9fbcca2a942a8b5ead8a01991185fbe42"
     },
     {
-        "url": "https://raw.githubusercontent.com/PirateZoro9/asura-cloudstream-plugins/builds/Rtally.cs3",
-        "status": 1,
-        "version": 3,
-        "name": "Rtally",
-        "internalName": "Rtally",
-        "authors": [
-            "Asura"
-        ],
-        "description": "Rtally Provider (Latest Movies, Web Series, Dramas & Dual Audio)",
-        "fileSize": 38519,
-        "repositoryUrl": "https://github.com/PirateZoro9/asura-cloudstream-plugins",
-        "language": "hi",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "iconUrl": "https://rtally.lol/assets/icons/rtally_logo_ml.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-8d37c4e2003b2d52f03524a67fb633a63bd443e0d87cb3493476dad81680b739"
-    },
-    {
         "url": "https://raw.githubusercontent.com/PirateZoro9/asura-cloudstream-plugins/builds/SsrMovies.cs3",
         "status": 1,
         "version": 4,
