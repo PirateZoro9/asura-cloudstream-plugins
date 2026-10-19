@@ -1,5 +1,28 @@
 [
     {
+        "url": "https://raw.githubusercontent.com/PirateZoro9/asura-cloudstream-plugins/builds/Anikoto.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "Anikoto",
+        "internalName": "Anikoto",
+        "authors": [
+            "Asura"
+        ],
+        "description": "Anikoto Anime Provider (Anime Series & Movies in Sub/Dub with HD/Vidstream multi-streams & subtitles)",
+        "fileSize": 34592,
+        "repositoryUrl": "https://github.com/PirateZoro9/asura-cloudstream-plugins",
+        "language": "en",
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://anikoto.cz/images/favicon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-b5ad7b1ffc648b54e886358e05b78e6406fa93b1214d715d3a789073549fc377"
+    },
+    {
         "url": "https://raw.githubusercontent.com/PirateZoro9/asura-cloudstream-plugins/builds/HDHub4u.cs3",
         "status": 1,
         "version": 4,
